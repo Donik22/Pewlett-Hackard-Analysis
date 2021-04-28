@@ -20,6 +20,8 @@ The table below shows the count of retiring employees and thier roles/titles.
 # Summary
 There are `90,398` roles that will need to be fille in anticipation of the "silver tsunami" there are enough Senior Enginners & Senior Staff to mentor the next generation as of roles such as Managment , Assistant Engineer and Technique Leader may lack senior members guidance given there is only few retiring from that position.
 
-The table below shows the average salary of retiring employees grouped by department.
+The tables below shows the average salary of retiring employees grouped by department and the total number of retiting employees.
+
+![Retiring employees Count](https://github.com/Donik22/Pewlett-Hackard-Analysis/blob/main/Resources/Sum%20of%20retiring%20employees.PNG)
 
 ![Retiring average salary per department](https://github.com/Donik22/Pewlett-Hackard-Analysis/blob/main/Resources/Avg%20retiring%20salaries.PNG)
