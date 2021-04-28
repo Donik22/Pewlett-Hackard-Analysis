@@ -33,9 +33,9 @@ SELECT * FROM titles
 WHERE emp_no = 10291
 
 -- Total retiring titles 
-SELECT SUM(emp_count) FROM retiring_titles
+SELECT COUNT(*) FROM unique_titles
 
--- employees that are not retiring.
+-- Average salay of retiring employees per department.
 SELECT d.dept_name, CAST(AVG(s.salary) AS DECIMAL(10,2)) AS avg_salary FROM salaries s
 LEFT JOIN dept_emp de ON  s.emp_no = de.emp_no
 LEFT JOIN departments d ON de.dept_no = d.dept_no
