@@ -13,10 +13,13 @@ Top findings from the reults are :
 - The link that follows is for [Employees eligible for mentorship](https://github.com/Donik22/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibilty.csv)
 - The following link contains [Employee table with latest title](https://github.com/Donik22/Pewlett-Hackard-Analysis/blob/main/unique_titles.csv)
 
+The table below shows the count of retiring employees and thier roles/titles.
+
+![Retiring count per role](https://github.com/Donik22/Pewlett-Hackard-Analysis/blob/main/Resources/Retirment%20ready%20employees%20count.PNG)
 
 # Summary
 There are 90,398 roles that will need to be fille in anticipation of the "silver tsunami" there are enough Senior Enginners & Senior Staff to mentor the next generation as of roles such as Managment , Assistant Engineer and Technique Leader may lack senior members guidance given there is only few retiring from that position.
 
-The picture below shows how many Employees are retirment ready from each department.
+The table below shows the average salary of retiring employees grouped by department.
 
-![](url)
+![Retiring average salary per department](https://github.com/Donik22/Pewlett-Hackard-Analysis/blob/main/Resources/Avg%20retiring%20salaries.PNG)
